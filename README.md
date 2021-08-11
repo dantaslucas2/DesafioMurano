@@ -2,7 +2,6 @@
 
 ## Q1 - Troca de valor de variáveis, sem utilizar uma terceira variável
 ### Status: concluído
-<span style="color:blue">some *blue* text</span>
 
 ## Q2 - Implementeção de algoritmos de ordenação
 ### Status: Em desenvolvimento
