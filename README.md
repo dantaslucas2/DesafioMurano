@@ -1,7 +1,7 @@
 # Desafio Murano Investimentos
 
 ## Q1 - Troca de valor de variáveis, sem utilizar uma terceira variável
-### Status: concluído
+### Status: concluído :thumbsup:
 Para executar o programa, é necessário ter o python 3 instalado em sua máquina, e executar o seguinte comando no terminal dentro da pasta
 ```bash
 python3 trocaDeValor.py
