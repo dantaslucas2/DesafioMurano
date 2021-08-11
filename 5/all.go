@@ -21,7 +21,7 @@ func gerarNumerosAleatorios (numerosAleatorios* [n]int){
 	max := 50
 	for i := 0; i < n; i++ {
 		numerosAleatorios[i] += (rand.Intn(max - min) + min)
-		fmt.Println("int: ",numerosAleatorios[i])
+		//fmt.Println("int: ",numerosAleatorios[i])
 	}
 }
 

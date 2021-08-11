@@ -2,10 +2,8 @@
 #include <vector>
 #include <fstream>
 #include <map>
-#include "Estrutura_de_dados\Lista_adjacencia.hpp"
-#include "Estrutura_de_dados\Vetor_adjacencia.hpp"
-#include "Estrutura_de_dados\Matriz_adjacencia.hpp"
-#include "Estrutura_de_dados\Estrutura_de_dados.hpp"
+#include "Lista_adjacencia.hpp"
+#include "Estrutura_de_dados.hpp"
 #include "FuncoesAuxiliares.hpp"
 
 using namespace std;
@@ -20,16 +18,15 @@ class Grafo
     int entradaOk;
     vector<bool> hasNode;
     map<int, int> graus;
-    bool direcionado;
     bool peso;
-    bool valueNegativo;
+    bool valueNegativo = false;
 
     //1- lista 2-vetor 3-matriz
     int estruturaEscolhida;
     EstruturaDeDados *estruturaGrafo;   
   
     //TP1
-    Grafo(string caminho, int estrutura, bool newPeso, bool newDirecionado);
+    Grafo(string caminho, bool newPeso);
     void Entrada(string fileEntrada);
 
     void Saida(string fileSaida="./Resultados/Saida.txt");
