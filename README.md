@@ -4,16 +4,16 @@
 # Status: Concluido
 
 ### Q2 - Implementeção de algoritmos de ordenação
-# Status: Em desenvolvimento
+ Status: Em desenvolvimento
 
 ### Q3 - Calculo de investimento futuro
-# Status: Concluido
+ Status: Concluido
 
 ### Q4 - Colsultas em baco de dados
-# Status: Em desenvolvimento
+ Status: Em desenvolvimento
 
 ### Q5 - Soma de valores de um vetor em multithread
-# Status: Concluido
+## Status: Concluido
 
 ### Q6 - Grafos, algoritmo de Dijkstra
 # Status: Em desenvolvimento
