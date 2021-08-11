@@ -40,16 +40,17 @@ go run all.go
 ```
 
 ## Q6 - Grafos, algoritmo de Dijkstra
-### Status: Em desenvolvimento
+### Status: concluído :thumbsup:
 Para executar o programa
 ```bash
-#
+#Compila e cria os arquivos .o
 g++ -c *.cpp
-#
+#Gera um executável com nome "main"
 g++ -o main main.o Grafo.o Lista_adjacencia.o FuncoesAuxiliares.o Estrutura_de_dados.o
-#
+#Executa o arquivo "main"
 ./main
 ```
+OBS:Os resultados da consulta
 
 ## Q7 - Aprendizagem de máquina - prever preço de fechamento de ações
 ### Status: Em desenvolvimento
