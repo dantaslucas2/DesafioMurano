@@ -40,7 +40,7 @@ go run all.go
 ```
 
 ## Q6 - Grafos, algoritmo de Dijkstra
-### Status: Em desenvolvimento
+### Status: concluído :thumbsup:
 Para executar o programa
 ```bash
 #Compila e cria os arquivos .o
