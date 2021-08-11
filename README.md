@@ -1,4 +1,4 @@
-# DesafioMurano
+# Desafio Murano Investimentos
 
 ## Q1 - Troca de valor de variáveis, sem utilizar uma terceira variável
 ### Status: concluído
