@@ -43,7 +43,12 @@ go run all.go
 ### Status: Em desenvolvimento
 Para executar o programa
 ```bash
-
+#
+g++ -c *.cpp
+#
+g++ -o main main.o Grafo.o Lista_adjacencia.o FuncoesAuxiliares.o Estrutura_de_dados.o
+#
+./main
 ```
 
 ## Q7 - Aprendizagem de máquina - prever preço de fechamento de ações
