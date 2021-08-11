@@ -19,7 +19,7 @@ java Main
 ```
 
 ## Q3 - Calculo de investimento futuro
-### Status: concluído
+### Status: concluído :thumbsup:
 Para executar o terceiro programa, instale o node.js, e insira o comando
 ```bash
 node rendimento.js
@@ -33,7 +33,7 @@ Para executar o programa
 ```
 
 ## Q5 - Soma de valores de um vetor em multithread
-### Status: concluído
+### Status: concluído :thumbsup:
 Para executar esse programa, é utilizado a linguagem go, instale a versão mais recente e execute o seguite comando no terminal
 ```bash
 go run all.go
