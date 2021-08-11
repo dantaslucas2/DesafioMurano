@@ -26,7 +26,7 @@ node rendimento.js
 ```
 
 ## Q4 - Colsultas em baco de dados
-### Status: Em desenvolvimento
+### Status: concluído :thumbsup:
 Para executar o programa
 ```bash
 
