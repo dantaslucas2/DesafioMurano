@@ -29,8 +29,9 @@ node rendimento.js
 ### Status: concluído :thumbsup:
 Para executar o programa
 ```bash
-
+python3 Main.py
 ```
+Mais informações de como gerenciar o banco de dados, se encontra nos comentários do arquivo Main
 
 ## Q5 - Soma de valores de um vetor em multithread
 ### Status: concluído :thumbsup:
