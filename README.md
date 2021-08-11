@@ -34,7 +34,7 @@ Para executar o programa
 
 ## Q5 - Soma de valores de um vetor em multithread
 ### Status: concluído :thumbsup:
-Para executar esse programa, é utilizado a linguagem go, instale a versão mais recente e execute o seguite comando no terminal
+Esse programa foi desenvolvido utilizado a linguagem go, instale a versão mais recente e execute o seguite comando no terminal dentro da pasta
 ```bash
 go run all.go
 ```
