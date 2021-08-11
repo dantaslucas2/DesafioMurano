@@ -2,6 +2,10 @@
 
 ## Q1 - Troca de valor de variáveis, sem utilizar uma terceira variável
 ### Status: concluído
+Para executar o programa
+```bash
+
+```
 
 ## Q2 - Implementeção de algoritmos de ordenação
 ### Status: Em desenvolvimento
