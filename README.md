@@ -9,14 +9,14 @@ python3 trocaDeValor.py
 
 ## Q2 - Implementeção de algoritmos de ordenação
 ### Status: Em desenvolvimento
-Para executar o programa 2, há a necessidade de ter instalado alguma versão do jdk, e executar dentro da pasta do programa o comando
+Para executar o programa 2, há a necessidade de ter instalado python 3, e executar dentro da pasta do programa o comando
 ```bash
-javac main.java
+python3 Main.py
 ```
-E logo em seguida,
-```bash
-java Main
-```
+Foram implementados os algoritmos de ordenação
+- Merge sort, que possui complexidade de O(n log n)
+- Quick sort, que possui complexidade de O(n²)
+- Bubble sort, que possui complexidade de O(n²)
 
 ## Q3 - Calculo de investimento futuro
 ### Status: concluído :thumbsup:
