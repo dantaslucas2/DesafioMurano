@@ -8,7 +8,7 @@ python3 trocaDeValor.py
 ```
 
 ## Q2 - Implementeção de algoritmos de ordenação
-### Status: Em desenvolvimento
+### Status: concluído :thumbsup:
 Para executar o programa 2, há a necessidade de ter instalado python 3, e executar dentro da pasta do programa o comando
 ```bash
 python3 Main.py
