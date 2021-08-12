@@ -55,7 +55,5 @@ OBS:Os resultados da consulta
 
 ## Q7 - Aprendizagem de máquina - prever preço de fechamento de ações
 ### Status: Em desenvolvimento
-Para executar o programa
-```bash
+Para esse programa, foi utilizado a IDE Spyder, do pacote de distribuição anaconda
 
-```
